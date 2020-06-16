@@ -2,22 +2,25 @@
 
 
 ## Week 2
-<img src='Week2.png' title='Http header' width='' alt='' />
+<img src='Week2.png' title='week2' width='' alt='' />
 
 ## Broken Session Management
-<img src='Lab1Http.jpg' title='Http header' width='' alt='' />
+<img src='Lab1Http.jpg' title'broken' width='' alt='' />
 
-## CSRF
-<img src='CSRF.gif' title='IDOR challenge' width='' alt='' />
+## Session Manegement 1
+<img src='Session1.gif' title='session 1' width='' alt='' />
 
+## Session Management 2
+<img src='Session2.gif' title='session 2' width='' alt='' />
 
-## IDOR Challenge 1
-<img src='CSRF1.gif' title='IDOR challenge 1' width='' alt='' />
+## Session Management 3
+<img src='Session3.gif' title='session3' width='' alt='' />
 
-## IDOR Challenge 2
-<img src='Session1.gif' title='IDOR challenge 2' width='' alt='' />
+## Cross Site Forgery Request
+<img src='CSRF.gif' title='csrf' width='' alt='' />
 
-## IDOR Bank
-<img src='Session2.gif' title='IDOR challenge 2' width='' alt='' />
+## Cross Site Forgery Request 1
+<img src='CSRF1.gif' title='csrf1' width='' alt='' />
 
-<img src='Session3.gif' title='IDOR challenge 2' width='' alt='' />
+## Cross Site Forgery Request 2
+<img src='CSRF2.gif' title='csrf2' width='' alt='' />
