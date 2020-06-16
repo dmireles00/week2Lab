@@ -2,24 +2,22 @@
 
 
 ## Week 2
-<img src='week2.png' title='Http header' width='' alt='' />
+<img src='Week2.png' title='Http header' width='' alt='' />
 
-## Http Headers
+## Broken Session Management
 <img src='Lab1Http.jpg' title='Http header' width='' alt='' />
 
-## IDOR Challenge 
-<img src='IDOR1.gif' title='IDOR challenge' width='' alt='' />
+## CSRF
+<img src='CSRF.gif' title='IDOR challenge' width='' alt='' />
 
 
 ## IDOR Challenge 1
-<img src='IDORa1.gif' title='IDOR challenge 1' width='' alt='' />
+<img src='CSRF1.gif' title='IDOR challenge 1' width='' alt='' />
 
 ## IDOR Challenge 2
-<img src='IDORa2.gif' title='IDOR challenge 2' width='' alt='' />
-<img src='IDORb2.gif' title='IDOR challenge 2' width='' alt='' />
+<img src='Session1.gif' title='IDOR challenge 2' width='' alt='' />
 
 ## IDOR Bank
-<img src='IDORBanka.gif' title='IDOR challenge 2' width='' alt='' />
-<img src='IDORBankb.gif' title='IDOR challenge 2' width='' alt='' />
-<img src='IDORBankc.gif' title='IDOR challenge 2' width='' alt='' />
+<img src='Session2.gif' title='IDOR challenge 2' width='' alt='' />
 
+<img src='Session3.gif' title='IDOR challenge 2' width='' alt='' />
